@@ -48,6 +48,7 @@
 * その他の操作など
 
 [https://qiita.com/y-tsutsu/items/cfe89c0168f40a8fb353](https://qiita.com/y-tsutsu/items/cfe89c0168f40a8fb353)  
+[https://qiita.com/y-tsutsu/items/337aa2ef4fec160a23b4](https://qiita.com/y-tsutsu/items/337aa2ef4fec160a23b4)  
 [https://go.microsoft.com/fwlink/?linkid=832145](https://go.microsoft.com/fwlink/?linkid=832145)
 
 # 今回は話題にしないテーマ
